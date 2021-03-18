@@ -1,4 +1,5 @@
 ### Hello everyone, I'm Mateus Moreira, and this is my Github
+Me chamo Mateus, atualmente morando em Florianópolis/SC, sou desenvolvedor fullstack, e atualmente estou em busca de oportunidades e trabalhos para iniciar minha carreira como programador!
 
 **Github Status:**
 
