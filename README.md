@@ -1,6 +1,13 @@
 ### Hello everyone, I'm Mateus Moreira, and this is my Github
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Moreira&show_icons=true&hide_border=true)
+**Github Status:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateus-Moreira&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Moreira&count_private=true&theme=dracula">
+
+</p>
 
 
 <!--
