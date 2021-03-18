@@ -1,8 +1,6 @@
 ### Hello everyone, I'm Mateus Moreira, and this is my Github
 
-### - Languages and Tools...
-
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-Moreira&show_icons=true&hide_border=true)
 
 
 <!--
